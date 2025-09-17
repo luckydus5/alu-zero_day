@@ -1,0 +1,26 @@
+# Ignore Emacs backup files
+*~
+
+# Ignore compiled C files and object files
+*.o
+*.out
+*.exe
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.DS_Store
+*.log
+*.bak
+
+# Node.js / JavaScript dependencies
+node_modules/
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS-specific files
+Thumbs.db
+
